@@ -1,0 +1,46 @@
+# Avishek Kait
+
+> Avishek Kait (AK) is a Computer Science & Engineering student at the University of Global Village (UGV) in Barishal, Bangladesh, and a competitive programmer. He works in C, C++, Java and Python and is seeking internship and entry-level opportunities.
+
+Expected graduation: 2029. Based in Barishal, Bangladesh. Languages: Bangla (native), English (working proficiency), German (basic).
+
+Skills: C, C++, Java, Python, HTML, CSS, SQL, NumPy, Java Swing, C++ STL, Data Structures and Algorithms, Object-Oriented Programming, Git, GitHub, Linux.
+
+## Portfolio
+
+- [Home](https://www.avishekkait.tech/): Overview, skills and links
+- [Projects](https://www.avishekkait.tech/#work): Java and OOP projects, plus latest GitHub repositories
+- [Achievements](https://www.avishekkait.tech/#achievements): Contest results and ratings
+- [Problem Solving](https://www.avishekkait.tech/#problem_solving): Codeforces and CodeChef profiles and contest results
+- [About](https://www.avishekkait.tech/#about): Background and skills
+- [Education](https://www.avishekkait.tech/#education): Degree and schooling
+- [Events](https://www.avishekkait.tech/#events): Programming contests with photos
+- [Contact](https://www.avishekkait.tech/#contact): Email and message form
+- [CV (PDF)](https://www.avishekkait.tech/assets/Avishek-Kait-CV.pdf): Resume
+
+## Projects
+
+- UGV Bus Route Management System: Java Swing desktop app to manage university bus routes, schedules and transportation cost
+- UGV Student Mark and CGPA Generator: Calculates results and CGPA from course marks
+- Calculator and Number Utility: Object-oriented calculator with number tools
+
+## Achievements and events
+
+- Champion, 20th UGV IUPC, University of Global Village
+- Ranked 32nd, UGV 3rd South Zone Programming Contest, 10 October 2026, UGV, Barishal
+- Ranked 39th, PSTU IUPC 2026 (South Zone), 29 August 2026, PSTU
+- Codeforces: maximum rating 857 (handle avishekkait006)
+- CodeChef: maximum rating 850, 1 star (handle avishekkait06)
+
+## Profiles
+
+- [GitHub](https://github.com/avishekkait06): Source code and problem solutions
+- [LinkedIn](https://www.linkedin.com/in/avishekkait06): Professional profile
+- [Codeforces](https://codeforces.com/profile/avishekkait006): Contest profile
+- [CodeChef](https://www.codechef.com/users/avishekkait06): Contest profile
+- [LeetCode](https://leetcode.com/u/avishekkait06/): Practice profile
+- [YouTube](https://www.youtube.com/@techtallyt): Tech Tall channel
+
+## Contact
+
+- Email: info.avishekkait@gmail.com
