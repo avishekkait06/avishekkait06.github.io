@@ -264,7 +264,7 @@ document.getElementById("copy-email").addEventListener("click", async () => {
 // The very first message triggers an activation email to you: click the link once.
 const FORM_ENDPOINT = "https://formsubmit.co/ajax/info.avishekkait@gmail.com";
 // Optional: paste your Web3Forms access key between the quotes to use Web3Forms instead of FormSubmit.
-const WEB3FORMS_KEY = "";
+const WEB3FORMS_KEY = "db5921d8-0a91-4cc3-8cc4-5a41b2f3936b";
 document.getElementById("contact-form").addEventListener("submit", async (e) => {
   e.preventDefault();
   const form = e.target, btn = form.querySelector("button[type=submit]");
