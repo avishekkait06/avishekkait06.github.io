@@ -1,3 +1,2 @@
-Avishek Kait | Portfolio
 
-Personal portfolio website of Avishek Kait
+This is my portfolio website 
